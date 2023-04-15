@@ -1,6 +1,7 @@
 # Hello, I'm Adirtha! 👋
 
-![Welcome GIF](https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif)
+<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="200" height="200" alt="Welcome GIF">
+
 
 As an experienced problem-solver, I have spent my career seeking answers to the most challenging and pressing questions. Driven by my insatiable curiosity, I am deeply passionate about all things tech-related and enjoy working with a variety of tools and frameworks.
 
