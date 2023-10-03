@@ -1,8 +1,5 @@
 # Hello, I'm Adirtha! 👋
 
-<img src="https://media.giphy.com/media/Cmr1OMJ2FN0B2/giphy.gif" width="200" height="200" alt="Welcome GIF">
-
-
 As an experienced problem-solver, I have spent my career seeking answers to the most challenging and pressing questions. Driven by my insatiable curiosity, I am deeply passionate about all things tech-related and enjoy working with a variety of tools and frameworks.
 
 Currently serving as a Senior Data Scientist at InveniAI, I bring a wealth of experience and demonstrated expertise in Machine Learning and Natural Language Processing. Over the years, I have honed my skills in working with a diverse range of tools and frameworks, including Kafka, Elasticsearch, Fastapi, Transformers, Keras, and TensorFlow. My primary programming language is Python, although I am also quick to pick up other languages as needed.
